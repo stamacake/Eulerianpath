@@ -22,7 +22,7 @@ int main() {
 	int v1 = 0;
 	cin >> v1;
 
-	map<int, int> VV = {0,0};
+	map<int, int> VV;
 
 
 	for (int i = 1; i <= v1; i++) {
