@@ -3,7 +3,7 @@
 // Author : stamacake
 // Version :
 // Copyright : stamacake corp.
-// Description : Eulerian path
+// Description : Hamiltonian path
 //============================================================================
 
 #include <iostream>
